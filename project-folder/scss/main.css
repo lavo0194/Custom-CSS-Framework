@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #3498db;
+}
+
+.btn {
+  background-color: #3498db;
+  color: rgb(93, 93, 226);
+  padding: 16px;
+  border-radius: 4px;
+  text-align: center;
+}
+.btn:hover {
+  background-color: #217dbb;
+}
+
+input, textarea {
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.text-center {
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */
